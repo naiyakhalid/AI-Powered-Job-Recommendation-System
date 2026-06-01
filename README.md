@@ -1,5 +1,8 @@
 # AI-Powered-Job-Recommendation-System
 
+## Kaggle Notebook 
+https://www.kaggle.com/code/naiyakhalid/ai-powered-job-recommendation-system?scriptVersionId=323788069
+
 ## Project Overview
 This project develops a content-based job recommendation system that matches user skills and interests with relevant job opportunities.
 
