@@ -1,7 +1,6 @@
 # AI-Powered-Job-Recommendation-System
 
 ## Project Overview
-
 This project develops a content-based job recommendation system that matches user skills and interests with relevant job opportunities.
 
 Using Natural Language Processing (NLP) techniques, job descriptions are transformed into numerical representations and compared with a user profile. Jobs are then ranked according to similarity scores, allowing personalized recommendations to be generated.
@@ -99,3 +98,4 @@ Porto, Portugal
 # **Want to Connect** 
 [Linkedin](https:www.linkedin.com/in/naiya-khalid-纳亚-510981130) 🔗
 [Kaggle](https:https://www.kaggle.com/naiyakhalid) 📊
+[GitHub](https://github.com/naiyakhalid) 
